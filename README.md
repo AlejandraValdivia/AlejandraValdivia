@@ -17,7 +17,7 @@ I'm a full stack developer and love working with color, images, and code...
 
 ## 🛠 Skills
 Javascript, React, HTML, CSS, PHP, WordPress
-
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,js,react,html,css,php,wordpress,mysql,netlify,mongodb,xd,figma,ps,ai)](https://skillicons.dev)
 
 ## Tech Stack
 
