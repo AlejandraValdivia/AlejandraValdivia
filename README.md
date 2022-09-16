@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there :smiley:👋
 
-My name is  ✨Alejandra Valdivia✨ I'm a Front End Developer. 
+My name is  ✨Alejandra Valdivia✨ I'm a Front End Developer 👩‍💻
 I have always loved technology and learning how things work. 
 
 
@@ -16,7 +16,7 @@ I'm a full stack developer and love working with color, images, and code...
 
 
 ## 🛠 Skills
-Javascript, React, HTML, CSS, PHP, WordPress
+Javascript, React, HTML, CSS, PHP, WordPress, Adobe Creative Suite
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,js,react,html,css,php,wordpress,mysql,netlify,mongodb,xd,figma,ps,ai)](https://skillicons.dev)
 
 ## Tech Stack
