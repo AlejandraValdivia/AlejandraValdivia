@@ -13,6 +13,7 @@ I'm a full stack developer and love working with color, images, and code...
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hyperlinkweb.dev/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandra-valdivia-developer/)
 
+<a href="https://app.daily.dev/avaldivia001"><img src="https://api.daily.dev/devcards/v2/t8FxOdDyWlUGEqiOiQchn.png?type=default&r=h14" width="356" alt="Alejandra's Dev Card"/></a>
 
 
 ## 🛠 Skills
