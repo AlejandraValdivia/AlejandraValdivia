@@ -1,12 +1,14 @@
 ### Hi there :smiley:👋
 
-My name is  ✨Alejandra Valdivia✨ I'm a Front End Developer 👩‍💻
+My name is  ✨Alejandra Valdivia✨ I'm a Full-Stack Developer 👩‍💻
+in Vancouver, Canada, supporting your company's goals to ensure sustainable 
+growth through expertise in web development and creating appealing user interfaces.
 I have always loved technology and learning how things work. 
 
 
 
 ## 🚀 About Me
-I'm a full stack developer and love working with color, images, and code...
+I'm a full-stack developer and love working with color, images, and code...
 
 
 ## 🔗 Links
@@ -18,7 +20,7 @@ I'm a full stack developer and love working with color, images, and code...
 
 ## 🛠 Skills
 Javascript, React, HTML, CSS, PHP, WordPress, Adobe Creative Suite
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,js,react,jquery,html,css,sass,php,wordpress,mysql,netlify,bootstrap,firebase,mongodb,xd,figma,ps,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,js,react,redux,jquery,nodejs,express,html,css,sass,php,wordpress,mysql,netlify,bootstrap,tailwindcss,mongodb,xd,figma,ps,ai)](https://skillicons.dev)
 
 ## Tech Stack
 
