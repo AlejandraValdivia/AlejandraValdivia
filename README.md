@@ -20,10 +20,10 @@ I'm a full-stack developer and love working with color, images, and code...
 
 ## 🛠 Skills
 Javascript, React, HTML, CSS, PHP, WordPress, Adobe Creative Suite
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,js,react,redux,jquery,nodejs,express,html,css,sass,php,wordpress,mysql,netlify,bootstrap,tailwindcss,mongodb,xd,figma,ps,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,js,react,redux,jquery,nodejs,express,python,django,postgresql,npm,vite,notionhtml,css,sass,php,wordpress,mysql,netlify,bootstrap,mongodb,xd,figma,ps,ai)](https://skillicons.dev)
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
+**Client:** React, Redux
 
 **Server:** Node, Express
